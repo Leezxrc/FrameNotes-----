@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:05,280
+Welcome to Video Notes. This application creates subtitles from a local video.
+
+2
+00:00:06,080 --> 00:00:13,520
+You can edit the transcript and save your notes. Thank you for watching.
